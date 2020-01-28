@@ -98,7 +98,7 @@ footer {
   	color: white;
 }
 
-submit{
+.submit{
 	padding-top: 15px;
 	padding-bottom: 15px;
 	padding-left: 25px;
@@ -107,7 +107,7 @@ submit{
 	background-color: 
 }
 
-submit:hover {
+.submit:hover {
   background-color: white;
   color: #66bfbf;
   border: solid 1px white;
