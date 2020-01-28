@@ -1,0 +1,90 @@
+body{
+  background-color: #fbf4f9;
+}
+
+hr {
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #b9cced;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  }
+
+h1, h2, h3, h4, h5, h6, p, a {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.nav-link:hover {
+  background-color: white;
+  color: #66bfbf;
+  border: solid 1px white;
+}
+
+.nav-link {
+  margin: 10px;
+  border: solid 1px #66bfbf;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #66bfbf;
+  color: white;
+}
+
+li {
+	list-style: none;
+}
+
+h1 {
+  color: #66bfbf
+}
+
+h3 {
+  color: #66bffb
+}
+
+a {
+	text-decoration: none;
+}
+
+th {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #66bfbf;
+}
+
+#skills {
+	margin-left: 20px;
+}
+
+.stars {
+	color: #66bfbf;
+	margin-left: 5px;
+}
+
+
+.table-number {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.table-info{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.skill-items {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+	background-color: #66bfbf;
+}
+
+.form-text {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #66bffb;
+}
+
+.text-feild {
+	background-color: f6f6f6;
+	padding: 3px;
+	border: solid 2px #fbf4f9;
+}
