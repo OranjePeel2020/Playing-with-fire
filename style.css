@@ -91,6 +91,11 @@ footer {
 	border: solid 2px #fbf4f9;
 	border-radius: 5px;
 	margin-bottom: 20px;
+	  margin: 10px;
+  	border: solid 1px #66bfbf;
+  	border-radius: 5px;
+  	background-color: #66bfbf;
+  	color: white;
 }
 
 submit{
@@ -99,4 +104,12 @@ submit{
 	padding-left: 25px;
 	paddingr-right: 25px;
 	margin-bottom: 20px;
+	background-color: 
 }
+
+submit:hover {
+  background-color: white;
+  color: #66bfbf;
+  border: solid 1px white;
+}
+
