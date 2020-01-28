@@ -86,6 +86,14 @@ footer {
 
 .text-feild {
 	background-color: f6f6f6;
-	padding: 3px;
+	padding: 10px;
 	border: solid 2px #fbf4f9;
+	border-radius: 5px;
+}
+
+submit{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding: 10px;
+	padding: 10px;
 }
